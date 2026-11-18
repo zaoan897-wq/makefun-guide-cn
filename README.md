@@ -10,9 +10,9 @@
 
 这篇指南就是写给第一次接触这类玩法的人看的：从注册账号开始，一步步走到提交第一个作品、领到第一笔奖金。
 
-> **从这里开始注册：** [https://make.fun/r/7t00pg5x](https://make.fun/r/7t00pg5x)
+> **从这里开始注册：** [https://make.fun/r/436h2g6h](https://make.fun/r/436h2g6h)
 >
-> 邀请码：`7t00pg5x`（通过这个链接注册，邀请关系会自动绑定，不用手动填）
+> 邀请码：`436h2g6h`（通过这个链接注册，邀请关系会自动绑定，不用手动填）
 
 ## 目录
 
@@ -58,14 +58,14 @@
 
 ## 第一步：注册账号
 
-1. 打开邀请链接 [https://make.fun/r/7t00pg5x](https://make.fun/r/7t00pg5x)，点右上角 **Sign in**。
+1. 打开邀请链接 [https://make.fun/r/436h2g6h](https://make.fun/r/436h2g6h)，点右上角 **Sign in**。
 2. 选一种登录方式：Solana 钱包、GitHub、Google、Apple 或 Discord 都行，任选其一。
    用钱包登录只是签名确认身份，不会发起链上交易，也不花钱。
 3. 登录后点右上角头像进个人主页，顺手把用户名、头像补上。
 4. 如果你不是用 GitHub 登录的，记得在个人主页里把 GitHub 账号和 Solana 钱包都关联上：
    作品要从你的 GitHub 仓库提交，奖金要打到你的钱包，两个都不能缺。
 
-注册时如果页面让你填邀请码，填 `7t00pg5x` 就是上面这个；用邀请链接进来的一般会自动带上。
+注册时如果页面让你填邀请码，填 `436h2g6h` 就是上面这个；用邀请链接进来的一般会自动带上。
 
 ## 第二步：挑一场比赛
 
@@ -165,7 +165,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
   放在公开 GitHub 仓库里，带上作者自己的邀请链接；
 - 截止时间是 **2026-11-21 18:30（北京时间）**，按比赛期间经核验的真人注册数排名。
 
-所以如果你还没注册 make.fun，通过 [https://make.fun/r/7t00pg5x](https://make.fun/r/7t00pg5x) 注册，
+所以如果你还没注册 make.fun，通过 [https://make.fun/r/436h2g6h](https://make.fun/r/436h2g6h) 注册，
 既是给自己开个账号开始打比赛，也顺手给这篇指南记上一个有效注册，一举两得。
 等你有了自己的账号，你也会有自己的邀请链接（在个人主页的 Referrals 页），
 你可以像我这样写一篇自己的指南去参赛——这场不行就等下一场，平台的比赛是一茬接一茬的。
@@ -223,4 +223,4 @@ A：有。别人通过你的链接注册并参赛，你能拿到相应的邀请�
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=7t00pg5x&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=436h2g6h&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
